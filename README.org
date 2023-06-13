@@ -1,0 +1,10 @@
+* message-oo
+
+Message-passing Smalltalk-style object system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Kalimehtar/message-oo.git   |
+| commit  | 448f925  |
+| systems | message-oo |
+|---------+-------------------------------------------|
+
